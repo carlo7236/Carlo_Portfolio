@@ -15,4 +15,3 @@ Portfolio composed of coding projects done in class settings/personal projects
 * Created a summary table composed of different stats (mean, std, min, max) in order to look for insights on data 
 * Investigated different correlations through a correlation table and illustrated via a heat map
 * Illustrated findings through different visualizations such as a histogram and bar graph
-* To be continued...
