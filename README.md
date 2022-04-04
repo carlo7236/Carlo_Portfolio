@@ -9,7 +9,7 @@ Portfolio composed of coding projects done in class settings/personal projects
 
 * Performed an automated feature selection using Logistic Regression in order to find a set of variables best predictive of species
 * Imported three machine learning models (SVM, LR, and KNN) and compared each ones performance by finding the best parameters and using confusion matrices  
-* Compared each models performance via decision regions and wrote a discussion based on what went wrong 
+* Compared each models performance via decision regions and discussed them in detail in the discussion section
 
 * ![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Decision.png)
 
