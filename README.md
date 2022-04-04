@@ -1,16 +1,19 @@
 # Carlo_Portfolio
 Portfolio composed of coding projects done in class settings/personal projects
-# [Project 1: Exploratory Analysis of Palmer Penguins Data Set] (https://github.com/carlo7236/Carlo_Portfolio)
-* The goal of this project was to find a set of variables (2 quantative, 1 qualitative) that were predictive of a Penguins Species
+# [Project 1: Exploratory Analysis of Palmer Penguins Data Set Overview] (https://github.com/carlo7236/Carlo_Portfolio)
+* Found a set of variables (2 quantative, 1 qualitative) that were predictive of a Penguins Species
 * Cleaned/Prepared data by removing columns, renaming columns, and splitting the data into a train and test set for later use
 * Conducted an exploratory analysis which consisted of summary statistics and visualizations such as a scatterplot, histogram, and boxplot
+
+https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/BoxPlot.png
+
 * Performed an automated feature selection using Logistic Regression in order to find a set of variables best predictive of species
 * Imported three machine learning models (SVM, LR, and KNN) and compared each ones performance by finding the best parameters and using confusion matrices  
 * Compared each models performance via decision regions and wrote a discussion based on what went wrong 
 
 * ![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Decision.png)
 
-# [Project 2: Exploratory Analysis of Video Game Data Set (In-progress)] (https://github.com/carlo7236/Carlo_Portfolio)
+# [Project 2: Exploratory Analysis of Video Game Data Set] (https://github.com/carlo7236/Carlo_Portfolio)
 * The goal of this project is to explore a set of video game data ranging from 1985-2016
 * This data set was imported from kaggle and can be found here https://www.kaggle.com/arthurtok/the-console-wars-ps-vs-xbox-vs-wii/notebook
 * Cleaned/Prepared data by removing NaN values & converting User_Score into a str type 
