@@ -14,7 +14,7 @@ Portfolio composed of coding projects done in class settings/personal projects
 * Imported three machine learning models (SVM, LR, and KNN) and compared each ones performance by finding the best parameters and using confusion matrices  
 * Compared each models performance via decision regions and discussed them in detail in the discussion section
 
-* ![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Decision.jpg)
+* ![](images/Decision.jpg)
 
 # [Project 2: Exploratory Analysis of Video Game Data Set]
 
@@ -22,8 +22,8 @@ Portfolio composed of coding projects done in class settings/personal projects
 
 This project was made for fun and because I am really interested in gathering insights from video game data. This data set was imported from Kaggle and contains information ranging from 1985-2016. The data set includes information on video game genre, console, critic score, global sales and more. I analyzed the data set using basic statistics (summary tables and heat map) and found some correlation between sales in different countries. 
 
-![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Heatmap.png)
+![](images/Heatmap.png)
 
 Finally, I created some visualizations using matplotlib in order to determine what genres were most popular on the different consoles in the data and found that shooters predominatly sold well on the Xbox 360. Moreover, sports genre did best on the Nintendo Wii which can likely be contributed to the Wii but no correlation can be made. 
 
-![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/GlobalSales.png)
+![](images/GlobalSales.png)
