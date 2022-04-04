@@ -13,7 +13,7 @@ https://github.com/carlo7236/Carlo_Portfolio/blob/main/Console%20War%20EDA%20(Pr
 * Imported three machine learning models (SVM, LR, and KNN) and compared each ones performance by finding the best parameters and using confusion matrices  
 * Compared each models performance via decision regions and discussed them in detail in the discussion section
 
-* ![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Decision.png)
+* ![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Decision.jpg)
 
 # [Project 2: Exploratory Analysis of Video Game Data Set] (https://github.com/carlo7236/Carlo_Portfolio/blob/main/Console%20War%20EDA%20(Project%202).ipynb)
 
