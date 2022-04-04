@@ -1,6 +1,8 @@
 # Carlo_Portfolio
 Portfolio composed of coding projects done in class settings/personal projects
-# [Project 1: Exploratory Analysis of Palmer Penguins Data Set Overview] (https://github.com/carlo7236/Carlo_Portfolio)
+# [Project 1: Exploratory Analysis of Palmer Penguins Data Set Overview] (https://github.com/carlo7236/Carlo_Portfolio/blob/main/Project_Penguins.ipynb)
+
+https://github.com/carlo7236/Carlo_Portfolio/blob/main/Console%20War%20EDA%20(Project%202).ipynb
 * Found a set of variables (2 quantative, 1 qualitative) that were predictive of a Penguins Species
 * Cleaned/Prepared data by removing columns, renaming columns, and splitting the data into a train and test set for later use
 * Conducted an exploratory analysis which consisted of summary statistics and visualizations such as a scatterplot, histogram, and boxplot
@@ -13,10 +15,12 @@ Portfolio composed of coding projects done in class settings/personal projects
 
 * ![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Decision.png)
 
-# [Project 2: Exploratory Analysis of Video Game Data Set] (https://github.com/carlo7236/Carlo_Portfolio)
-* The goal of this project is to explore a set of video game data ranging from 1985-2016
-* This data set was imported from kaggle and can be found here https://www.kaggle.com/arthurtok/the-console-wars-ps-vs-xbox-vs-wii/notebook
-* Cleaned/Prepared data by removing NaN values & converting User_Score into a str type 
-* Created a summary table composed of different stats (mean, std, min, max) in order to look for insights on data 
-* Investigated different correlations through a correlation table and illustrated via a heat map
-* Illustrated findings through different visualizations such as a histogram and bar graph
+# [Project 2: Exploratory Analysis of Video Game Data Set] (https://github.com/carlo7236/Carlo_Portfolio/blob/main/Console%20War%20EDA%20(Project%202).ipynb)
+
+This project was made for fun and because I am really interested in gathering insights from video game data. This data set was imported from Kaggle and contains information ranging from 1985-2016. The data set includes information on video game genre, console, critic score, global sales and more. I analyzed the data set using basic statistics (summary tables and heat map) and found some correlation between sales in different countries. 
+
+![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Heatmap.png)
+
+Finally, I created some visualizations using matplotlib in order to determine what genres were most popular on the different consoles in the data and found that shooters predominatly sold well on the Xbox 360. Moreover, sports genre did best on the Nintendo Wii which can likely be contributed to the Wii but no correlation can be made. 
+
+![](https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/GlobalSales.png)
