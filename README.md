@@ -8,6 +8,8 @@ Portfolio composed of coding projects done in class settings/personal projects
 * Imported three machine learning models (SVM, LR, and KNN) and compared each ones performance by finding the best parameters and using confusion matrices  
 * Compared each models performance via decision regions and wrote a discussion based on what went wrong 
 
+* https://github.com/carlo7236/Carlo_Portfolio/blob/main/images/Decision.png
+
 # [Project 2: Exploratory Analysis of Video Game Data Set (In-progress)] (https://github.com/carlo7236/Carlo_Portfolio)
 * The goal of this project is to explore a set of video game data ranging from 1985-2016
 * This data set was imported from kaggle and can be found here https://www.kaggle.com/arthurtok/the-console-wars-ps-vs-xbox-vs-wii/notebook
